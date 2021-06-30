@@ -24,14 +24,6 @@ final class OnboardingAnalytics {
             name = "Tests Number Screen"
         case .slide9:
             name = "Improve Screen"
-        case .slide10:
-            name = "Question 1 Screen"
-        case .slide11:
-            name = "Question 2 Screen"
-        case .slide12:
-            name = "Question 3 Screen"
-        case .slide13:
-            name = "Question 4 Screen"
         case .slide14:
             name = "Plan Preparing Screen"
         case .slide15:
